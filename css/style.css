@@ -170,7 +170,7 @@ footer small{
 }
 @media (max-width:540px){
     .footer_logo img{
-        width: 35%;
+        width: 25%;
         padding: 24px 0 8px;
     }
     .footer_menu{
