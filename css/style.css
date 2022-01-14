@@ -125,6 +125,16 @@ nav h1{
         padding-bottom: 40px;
     }
 }
+/* ---------------main--------------- */
+/* ------------------------------------- */
+main h1{
+    text-align: center;
+    padding: 30px 0;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    background-color:#3A2922;
+    color: #DBD4CE;
+}
 /* ---------------footer--------------- */
 /* ------------------------------------- */
 footer{
